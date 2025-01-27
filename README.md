@@ -1,5 +1,5 @@
 
-![logo](https://github.com/MdAffanAlam/MdAffanAlam/blob/main/bannergit.png)
+![logo](https://github.com/MdAffanAlam/MdAffanAlam/blob/main/BannerNew.gif)
 <h1 align="center">Hi 👋, I'm MD AFFAN ALAM</h1>
 <h3 align="center">A passionate Computer Science student with a love for coding, Data Structures & Algorithms (DSA), and software development. I strive to constantly improve my skills and work on interesting projects.</h3>
 
