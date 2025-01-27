@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/MdAffanAlam/MdAffanAlam/blob/main/BannerNew.gif)
 <h1 align="center">Hi 👋, I'm MD AFFAN ALAM</h1>
 <h3 align="center">A passionate Computer Science student with a love for coding, Data Structures & Algorithms (DSA), and software development. I strive to constantly improve my skills and work on interesting projects.</h3>
@@ -8,6 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdaffanalam" alt="mdaffanalam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="reload animation" width="50" height="50"/>
+</p>
 <p align="left">
   <!-- Add any social links here -->
 </p>
@@ -52,13 +54,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaffanalam&show_icons=true&locale=en&layout=compact" alt="mdaffanalam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaffanalam&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdaffanalam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaffanalam&show_icons=true&locale=en" alt="mdaffanalam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaffanalam&show_icons=true&locale=en&theme=dark" alt="mdaffanalam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdaffanalam&" alt="mdaffanalam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdaffanalam&theme=dark" alt="mdaffanalam" /></p>
 
-<!-- Add an animated reload gif -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="reload animation" width="50" height="50"/>
-</p>
+
