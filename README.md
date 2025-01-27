@@ -1,7 +1,7 @@
 ![logo](https://github.com/MdAffanAlam/MdAffanAlam/blob/main/BannerNew.gif)
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 50px; color: #4CAF50;">Hi 👋, I'm MD AFFAN ALAM</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2F4F4F;">
+<h1 style="font-family: 'Arial', sans-serif; font-size: 50px; color: #4CAF50;">Hi 👋, I'm MD AFFAN ALAM</h1>
+<h3  style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2F4F4F;">
   A passionate Computer Science student with a love for coding, Data Structures & Algorithms (DSA), and software development.
   I strive to constantly improve my skills and work on interesting projects.
 </h3>
