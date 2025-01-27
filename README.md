@@ -79,6 +79,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaffanalam&show_icons=true&locale=en&layout=compact&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaffanalam&show_icons=true&locale=en&theme=dark" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaffanalam&show_icons=true&locale=en&layout=compact&&theme=highcontrast" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaffanalam&show_icons=true&locale=en&&theme=highcontrast" height="150" alt="languages graph"  />
 </div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdaffanalam&&theme=highcontrast" alt="MdAffanAlam" />
+</p>
