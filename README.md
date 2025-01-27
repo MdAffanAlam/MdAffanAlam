@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="reload animation" width="50" height="50"/>
+  <img src="https://github.com/MdAffanAlam/MdAffanAlam/blob/main/gifgit.jpg" alt="reload animation" width="250" height="250"/>
 </p>
 <p align="left">
   <!-- Add any social links here -->
