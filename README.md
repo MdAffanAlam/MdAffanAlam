@@ -16,7 +16,7 @@
   </a> 
 </p>
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 25px;">Connect with me:</h3>
+<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 30px;">Connect with me:</h3>
 
 <p align="center">
   <img src="https://github.com/MdAffanAlam/MdAffanAlam/blob/main/GithubGif.gif?raw=true" alt="GitHub Gif" width="250" height="250"/>
@@ -37,9 +37,9 @@
   </a>
 </p>
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 25px;">Languages and Tools:</h3>
+<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 30px; margin-top:20px;">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   </a>
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="center" style="margin-top:20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdaffanalam&show_icons=true&locale=en&layout=compact&theme=highcontrast" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mdaffanalam&show_icons=true&locale=en&theme=highcontrast" height="125" alt="languages graph"  />
 </div>
