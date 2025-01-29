@@ -7,14 +7,17 @@
 </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MdAffanAlam&label=Profile%20views&color=0e75b6&style=flat" alt="mdaffanalam" /> 
+  <img src="https://komarev.com/ghpvc/?username=MdAffanAlam&label=Profile%20views&color=0e75b6&style=flat" alt="mdaffanalam" width="150" height="30" /> 
 </p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mdaffanalam" alt="mdaffanalam" />
   </a> 
 </p>
+
+ 👨‍💻 All of my projects are available at [Github](https://github.com/mdaffanalam)
 
 <h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 30px;">Connect with me:</h3>
 
