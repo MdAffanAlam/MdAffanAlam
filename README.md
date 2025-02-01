@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=MdAffanAlam&label=Profile%20views&color=0e75b6&style=flat" alt="mdaffanalam" width="95" height="25" /> 
+  <img src="https://komarev.com/ghpvc/?username=MdAffanAlam&label=Profile%20views&color=0e75b6&style=flat" alt="mdaffanalam" width="90" height="22" /> 
 </p>
 
 
